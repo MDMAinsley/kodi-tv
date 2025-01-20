@@ -1,0 +1,61 @@
+#EXTM3U url-tvg="http://10.116.162.4:34400/xmltv/xteve.xml" x-tvg-url="http://10.116.162.4:34400/xmltv/xteve.xml"
+#EXTINF:0 channelID="x-ID.4" tvg-chno="1" tvg-name="ITV" tvg-id="1" tvg-logo="http://138.199.27.237:8080/UK/ITV.png" group-title="UK ENTERTAINMENT",ITV
+http://10.116.162.4:34400/stream/0bc86932e689ff5c680bf96db28f4547
+#EXTINF:0 channelID="x-ID.5" tvg-chno="2" tvg-name="ITV2" tvg-id="2" tvg-logo="http://138.199.27.237:8080/UK/ITV2.png" group-title="UK ENTERTAINMENT",ITV2
+http://10.116.162.4:34400/stream/0ab1dcbe9d23fb39a002ff236522e98a
+#EXTINF:0 channelID="x-ID.6" tvg-chno="3" tvg-name="ITV3" tvg-id="3" tvg-logo="http://138.199.27.237:8080/UK/ITV3.png" group-title="UK ENTERTAINMENT",ITV3
+http://10.116.162.4:34400/stream/bb03f2ec107e6c2797a824af5c0f8a06
+#EXTINF:0 channelID="x-ID.7" tvg-chno="4" tvg-name="ITV4" tvg-id="4" tvg-logo="http://138.199.27.237:8080/UK/ITV4.png" group-title="UK ENTERTAINMENT",ITV4
+http://10.116.162.4:34400/stream/ed8044ca8af392fa23b4b7799ebb380d
+#EXTINF:0 channelID="x-ID.47" tvg-chno="5" tvg-name="ITVBE" tvg-id="5" tvg-logo="http://138.199.27.237:8080/UK/ITVBE.png" group-title="UK ENTERTAINMENT",ITVBE
+http://10.116.162.4:34400/stream/f93287875b02052567f569171facf557
+#EXTINF:0 channelID="x-ID.17" tvg-chno="10" tvg-name="BBC NEWS" tvg-id="10" tvg-logo="http://138.199.27.237:8080/UK/BBC1.png" group-title="UK ENTERTAINMENT",BBC NEWS
+http://10.116.162.4:34400/stream/0932450ec2d37127b5c63c5c50370e94
+#EXTINF:0 channelID="x-ID.15" tvg-chno="11" tvg-name="BBC ONE" tvg-id="11" tvg-logo="http://138.199.27.237:8080/UK/BBC1.png" group-title="UK ENTERTAINMENT",BBC ONE
+http://10.116.162.4:34400/stream/3742304be471415270f4b9075a20552d
+#EXTINF:0 channelID="x-ID.28" tvg-chno="12" tvg-name="BBC TWO" tvg-id="12" tvg-logo="http://138.199.27.237:8080/UK/BBC2.png" group-title="UK ENTERTAINMENT",BBC TWO
+http://10.116.162.4:34400/stream/1e0ec0d319cac9a66ca53f9166aa9d9e
+#EXTINF:0 channelID="x-ID.22" tvg-chno="13" tvg-name="BBC ONE SOUTH WEST" tvg-id="13" tvg-logo="http://138.199.27.237:8080/UK/BBCONEWEST.png" group-title="UK ENTERTAINMENT",BBC ONE SOUTH WEST
+http://10.116.162.4:34400/stream/853ba16cbd9d71537a11b31351b3810b
+#EXTINF:0 channelID="x-ID.21" tvg-chno="14" tvg-name="BBC ONE SOUTH" tvg-id="14" tvg-logo="http://138.199.27.237:8080/UK/BBCONESOUTH.png" group-title="UK ENTERTAINMENT",BBC ONE SOUTH
+http://10.116.162.4:34400/stream/41ddfea2eef52d66aa5ac6ac10cf6480
+#EXTINF:0 channelID="x-ID.16" tvg-chno="15" tvg-name="BBC ONE LON" tvg-id="15" tvg-logo="http://138.199.27.237:8080/UK/BBCONELONDON.png" group-title="UK ENTERTAINMENT",BBC ONE LON
+http://10.116.162.4:34400/stream/bf1d5dab325b7c9d5063a74f4808c1ae
+#EXTINF:0 channelID="x-ID.42" tvg-chno="20" tvg-name="E4" tvg-id="20" tvg-logo="http://138.199.27.237:8080/UK/E4.png" group-title="UK ENTERTAINMENT",E4
+http://10.116.162.4:34400/stream/4162135718fc5c9a994038316fac40af
+#EXTINF:0 channelID="x-ID.8" tvg-chno="21" tvg-name="4MUSIC" tvg-id="21" tvg-logo="http://138.199.27.237:8080/UK/4MUSIC.png" group-title="UK ENTERTAINMENT",4MUSIC
+http://10.116.162.4:34400/stream/38e82b336282b30c8a9e5fa76f5d8d6a
+#EXTINF:0 channelID="x-ID.9" tvg-chno="22" tvg-name="4SEVEN" tvg-id="22" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb3150.png" group-title="UK ENTERTAINMENT",4SEVEN
+http://10.116.162.4:34400/stream/0619336ce6cc6bd116d197c0642ac526
+#EXTINF:0 channelID="x-ID.35" tvg-chno="23" tvg-name="CHANNEL 4" tvg-id="23" tvg-logo="http://138.199.27.237:8080/UK/CHANNEL4.png" group-title="UK ENTERTAINMENT",CHANNEL 4
+http://10.116.162.4:34400/stream/3e4fbca528e24ecbd0ef8dd8a3671ec3
+#EXTINF:0 channelID="x-ID.43" tvg-chno="24" tvg-name="FILM4" tvg-id="24" tvg-logo="http://138.199.27.237:8080/UK/FILM4.png" group-title="UK ENTERTAINMENT",FILM4
+http://10.116.162.4:34400/stream/2e73192c9dbba4c957fba8c3cc42df5b
+#EXTINF:0 channelID="x-ID.52" tvg-chno="25" tvg-name="MORE4" tvg-id="25" tvg-logo="http://138.199.27.237:8080/UK/MORE%204.png" group-title="UK ENTERTAINMENT",MORE4
+http://10.116.162.4:34400/stream/51815b0163d89623ffb14ccb4bb08af3
+#EXTINF:0 channelID="x-ID.10" tvg-chno="30" tvg-name="5 USA" tvg-id="30" tvg-logo="http://138.199.27.237:8080/UK/5USA.png" group-title="UK ENTERTAINMENT",5 USA
+http://10.116.162.4:34400/stream/bb75fbe3789fcfc03d90574a3d2298ba
+#EXTINF:0 channelID="x-ID.11" tvg-chno="31" tvg-name="5SELECT" tvg-id="31" tvg-logo="http://138.199.27.237:8080/UK/5SELECT.png" group-title="UK ENTERTAINMENT",5SELECT
+http://10.116.162.4:34400/stream/e198d0ac6cafa711337501c41cac92a0
+#EXTINF:0 channelID="x-ID.12" tvg-chno="32" tvg-name="5STAR" tvg-id="32" tvg-logo="http://138.199.27.237:8080/UK/5STAR.png" group-title="UK ENTERTAINMENT",5STAR
+http://10.116.162.4:34400/stream/57fe5a6df26181307b7a6e5137f0c94b
+#EXTINF:0 channelID="x-ID.36" tvg-chno="33" tvg-name="CHANNEL 5" tvg-id="33" tvg-logo="http://138.199.27.237:8080/UK/CHANNEL5.png" group-title="UK ENTERTAINMENT",CHANNEL 5
+http://10.116.162.4:34400/stream/e546c842343c92f6659733f249f37408
+#EXTINF:0 channelID="x-ID.38" tvg-chno="40" tvg-name="COMEDY CENTRAL" tvg-id="40" tvg-logo="http://138.199.27.237:8080/UK/COMEDYCENTRALHD.png" group-title="UK ENTERTAINMENT",COMEDY CENTRAL
+http://10.116.162.4:34400/stream/fe1b7e3cbaeb59d0ad62dc73d6d7328b
+#EXTINF:0 channelID="x-ID.39" tvg-chno="41" tvg-name="COMEDYXTRA" tvg-id="41" tvg-logo="http://138.199.27.237:8080/UK/COMEDYCENTRALEXTRA.png" group-title="UK ENTERTAINMENT",COMEDYXTRA
+http://10.116.162.4:34400/stream/ef926ffd89346f9e8f746e479143c7a3
+#EXTINF:0 channelID="x-ID.40" tvg-chno="42" tvg-name="DISCOVERY" tvg-id="42" tvg-logo="http://138.199.27.237:8080/UK/DISCOVERYHD.png" group-title="UK ENTERTAINMENT",DISCOVERY
+http://10.116.162.4:34400/stream/8a97c8be34c305543031fbb73f15e987
+#EXTINF:0 channelID="x-ID.46" tvg-chno="43" tvg-name="ID +1" tvg-id="43" tvg-logo="http://138.199.27.237:8080/UK/DISCOVERYHD.png" group-title="UK ENTERTAINMENT",ID +1
+http://10.116.162.4:34400/stream/77a708d91aa08ec82efafbd3227de3f9
+#EXTINF:0 channelID="x-ID.30" tvg-chno="44" tvg-name="BLOOMBERG" tvg-id="44" tvg-logo="http://138.199.27.237:8080/UK/BLOOMBERG.png" group-title="UK ENTERTAINMENT",BLOOMBERG
+http://10.116.162.4:34400/stream/d06050a2f4ca70ad1e8ee9c6ed979cae
+#EXTINF:0 channelID="x-ID.48" tvg-chno="45" tvg-name="KERRANG" tvg-id="45" tvg-logo="http://138.199.27.237:8080/UK/KERRANG%21.png" group-title="UK ENTERTAINMENT",KERRANG
+http://10.116.162.4:34400/stream/36eebdb896f2e73a89886c958dccf889
+#EXTINF:0 channelID="x-ID.63" tvg-chno="50" tvg-name="CARTOON NETWRK" tvg-id="50" tvg-logo="http://138.199.27.237:8080/UK/CARTOONNETWORK.png" group-title="UK ENTERTAINMENT",CARTOON NETWRK
+http://10.116.162.4:34400/stream/36fe7e29f52ac9813479ec53346283ab
+#EXTINF:0 channelID="x-ID.31" tvg-chno="51" tvg-name="CBBC" tvg-id="51" tvg-logo="http://138.199.27.237:8080/UK/BBCCBBC.png" group-title="UK ENTERTAINMENT",CBBC
+http://10.116.162.4:34400/stream/8c2bf5dc4cbc6a5ec15017a0cc5b3a10
+#EXTINF:0 channelID="x-ID.37" tvg-chno="52" tvg-name="CITV" tvg-id="52" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CITV_logo_2013.svg/1200px-CITV_logo_2013.svg.png" group-title="UK ENTERTAINMENT",CITV
+http://10.116.162.4:34400/stream/3316fb1e24cd2832faa6302c6910c55a
